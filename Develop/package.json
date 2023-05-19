@@ -19,6 +19,7 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
+    "balanced-match": "^2.0.0",
     "if-env": "^1.0.4"
   }
 }
